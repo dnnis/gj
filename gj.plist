@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://10.100.18.118:8088/tcentmobilemanager.ipa</string>
+                    <string>https://raw.githubusercontent.com/dnnis/gj/master/tcentmobilemanager.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
